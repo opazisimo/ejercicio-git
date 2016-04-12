@@ -1,1 +1,1 @@
-Hola, soy Susana, espero que esto resulte
+La parte dos del ejercicio pide ponerle contenido a hello.txt usando el comando echo, lo haré acá pero después también lo haré en otroFile.txt

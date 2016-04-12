@@ -1,0 +1,1 @@
+En este echo le pondré contenido también a otroFile.txt
