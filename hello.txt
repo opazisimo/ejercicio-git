@@ -1,1 +1,1 @@
-La parte dos del ejercicio pide ponerle contenido a hello.txt usando el comando echo, lo haré acá pero después también lo haré en otroFile.txt
+Es la tercera vez que me piden agregar contenido en hello.txt
