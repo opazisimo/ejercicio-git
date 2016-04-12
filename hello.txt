@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Vamos a por otro commit, este es para ver los cambios en el master
-=======
 asdasdasd hello.txt, como quinto commit
->>>>>>> nuevo-branch
